@@ -1,0 +1,14 @@
+{
+  "name": "p5-app-server",
+  "version": "0.1.0",
+  "description": "Server image to run the plugins apps",
+  "main": "server.js",
+  "scripts": {
+    "start": "export NODE_ENV=dev; node server.js"
+  },
+  "author": "Alessio Michelini",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.16.3"
+  }
+}
