@@ -1,6 +1,6 @@
 {
   "name": "p5-app-server",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Server image to run the plugins apps",
   "main": "server.js",
   "scripts": {
@@ -9,6 +9,7 @@
   "author": "Alessio Michelini",
   "license": "ISC",
   "devDependencies": {
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "serve-index": "^1.9.1"
   }
 }
